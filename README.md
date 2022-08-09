@@ -22,7 +22,7 @@ Run the following command to create tezjs project:
 2. Connect your repositoty code with render app.
 3. Give the build command - `npm run build`
 4. Give the build folder name - `dist`
-5. Click on the button: `Deploy Now`
+5. Click on the button - `Deploy Now`
 
 ## References:
 - [Renders Docs](https://render.com/docs/)
