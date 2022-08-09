@@ -26,4 +26,4 @@ Run the following command to create tezjs project:
 
 ## References:
 - [Renders Docs](https://render.com/docs/)
-- [Stormkit Deployments](https://render.com/docs/deploy-vue-js)
+- [Render Deployments](https://render.com/docs/deploy-vue-js)
