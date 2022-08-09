@@ -5,8 +5,10 @@ In this guide, you will learn how to deploy your TezJs Site to  Render.
 https://tezjs-deploy-render.onrender.com/
 
 ## Preparing for deployment:
-Run the following command to create tezjs project:
-  - `npm create tez@latest`
+Copy and run the command to create tezjs project:
+```
+npm create tez@latest
+```
   - `cd [projectName]` 
   - `npm install` - for installing the required dependencies
   - `npm run build` - for build the project
